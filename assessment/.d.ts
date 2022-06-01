@@ -1,0 +1,1 @@
+declare module 'craco-plugin-scoped-css'
